@@ -1,4 +1,5 @@
 Meu Projeto
+
 Olá! No meu projeto, tenho um arquivo chamado index.ts onde escrevi um código TypeScript. O TypeScript é incrível, pois é um superset do JavaScript, o que significa que posso estender o JavaScript com tipagem estática opcional.
 
 Aqui está um trecho do meu código TypeScript em index.ts:
