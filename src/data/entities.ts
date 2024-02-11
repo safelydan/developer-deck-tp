@@ -24,5 +24,6 @@ export class Order {
     private 
 }
 
-// em programação orientada a objetos, um construtor é um método especial em uma classe que é chamado automaticamente quando um objeto da classe é criado. Ele é usado para realizar inicializações 
+//em programação orientada a objetos, um construtor é um método especial em uma classe que é 
+//chamado automaticamente quando um objeto da classe é criado. ele é usado para realizar inicializações 
 //necessárias no objeto, como atribuir valores iniciais às propriedades.
