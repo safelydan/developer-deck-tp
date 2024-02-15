@@ -1,10 +1,10 @@
 ### Instalação das Dependências:
 
-Certifique-se de ter o Node.js instalado.
+Com Node.js instalado crie um novo diretório para o seu projeto e execute npm init -y para iniciar um projeto Node.js.
 
-Crie um novo diretório para o seu projeto e execute npm init -y para iniciar um projeto Node.js.
+### Instale as dependências necessárias 
 
-Instale as dependências necessárias com npm install --save-dev typescript webpack ts-loader.
+npm install --save-dev typescript webpack ts-loader.
 
 ### Configuração do TypeScript:
 
